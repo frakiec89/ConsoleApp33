@@ -11,6 +11,7 @@ namespace ConsoleApp33
         static void Main(string[] args)
         {
             Console.WriteLine("Изменения");
+            Console.Read();
         }
     }
 }
